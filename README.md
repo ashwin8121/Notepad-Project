@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwin8121
 - 👀 I’m interested in a lot of intresting things in python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Tensorflow and PyTorch
 - 💞️ I’m looking to collaborate on python GUIs
 - 📫 How to reach me gmail: ashwin.python81@gmail.com
 
